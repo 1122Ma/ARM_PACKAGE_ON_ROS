@@ -38,4 +38,4 @@ finally
 
 Then the RVIZ program will work on the ros 
 
-and the result we can see here : https://github.com/1122Ma/ARM_PACKAGE_ON_ROS/issues
+and the result we can see here with picture : https://github.com/1122Ma/ARM_PACKAGE_ON_ROS/issues
