@@ -37,3 +37,5 @@ finally
 12-roslaunch robot_arm_pkg check_motors.launch
 
 Then the RVIZ program will work on the ros 
+
+and the result we can see here : https://github.com/1122Ma/ARM_PACKAGE_ON_ROS/issues
